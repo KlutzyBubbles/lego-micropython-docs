@@ -25,6 +25,11 @@ wheels/
 *.egg
 MANIFEST
 
+*.DS_Store
+.DS_Store
+html.tar
+html.tar.gz
+
 # PyInstaller
 #  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
@@ -112,3 +117,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+docs/.DS_Store
+.DS_Store
